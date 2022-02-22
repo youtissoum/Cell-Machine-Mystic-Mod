@@ -2,10 +2,8 @@
 ![Cell Machine Mystic Mod](https://cdn.discordapp.com/attachments/791918858855383074/871725987828744282/banner.png)
 
 [![Discord Mine](https://img.shields.io/discord/791818283867045941?label=chat&logo=discord&logoColor=white)](https://discord.gg/AcPpgxctAE)
-[![CodeFactor](https://www.codefactor.io/repository/github/sequitur-studios/cell-machine-mystic-mod/badge)](https://www.codefactor.io/repository/github/sequitur-studios/cell-machine-mystic-mod)
-![Issues](https://img.shields.io/github/issues/Sequitur-Studios/Cell-Machine-Mystic-Mod)
-![Forks](https://img.shields.io/github/forks/Sequitur-Studios/Cell-Machine-Mystic-Mod)
-[![Test project](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/actions/workflows/tests.yml/badge.svg)](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/actions/workflows/tests.yml)
+![Issues](https://github.com/youtissoum/cell-machine-mystic-mod/issues)
+![Forks](https://img.shields.io/github/forks/youtissoum/cell-machine-mystic-mod)
 
 A game about cellular automata
 
@@ -17,7 +15,7 @@ A game about cellular automata
 
 ## Contributing
 
-By contributing you awknowledge that you have read and understood the [contributor agreement](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/blob/master/.github/CONTRIBUTING.md).
+By contributing you awknowledge that you have read and understood the [contributor agreement](https://github.com/youtissoum/cell-machine-mystic-mod/blob/main/.github/CONTRIBUTING.md).
 
 ### Requirements
 
